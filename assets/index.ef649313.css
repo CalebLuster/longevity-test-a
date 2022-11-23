@@ -592,9 +592,9 @@ body {
 }
 @font-face {
   font-family: DM Mono;
-  src: url(./assets/DMMono-Regular.57f0f4b4.ttf);
+  src: url(./DMMono-Regular.57f0f4b4.ttf);
 }
 @font-face {
   font-family: DM Sans;
-  src: url(./assets/DMSans-Regular.9ae2da66.ttf);
+  src: url(./DMSans-Regular.9ae2da66.ttf);
 }
