@@ -40,7 +40,7 @@ const activeChip = computed(() =>
 
   <div class="solution-sections-wrappers">
     <div class="">
-      <img src="../assets/Group 4754.png" class="solution-img" />
+      <img src="../assets/Group4754.png" class="solution-img" />
     </div>
     <div>
       <div>
